@@ -1,0 +1,27 @@
+# Brightness Slider
+# Copyright (C) 2019 ILikePython256
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"POT-Creation-Date: 2019-11-24 10:16+0800\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: applet.js:MyApplet.prototype:brightnessSliderChanged
+msgid "Brightness"
+msgstr ""
+
+#. brightness@ILikePython256->metadata.json->description
+msgid ""
+"An applet to change the brightness."
+msgstr ""
+
+#. brightness@ILikePython256->metadata.json->name
+msgid "Brightness Slider"
+msgstr ""

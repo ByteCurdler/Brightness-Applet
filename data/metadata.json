@@ -1,0 +1,7 @@
+{
+    "uuid": "brightness@ILikePython256",
+    "name": "Brightness Slider",
+    "description": "An applet to change the brightness.",
+    "icon": "display-brightness-symbolic",
+    "last-edited": 1574615880
+}
